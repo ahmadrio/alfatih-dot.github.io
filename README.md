@@ -9,7 +9,7 @@ Silakan teman-teman daftarkan nama kalian kemudian challenge nya sangat mudah:
 
 ## Daftar Nama Kalian:
 
-- Pace
+- Pace : [github](http://github.com/ahmadrio)
 - Angga
 - Samsul
 - Fajar
